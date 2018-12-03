@@ -12,5 +12,4 @@ with open('input.txt', 'r') as f:
           break
         else:
           s.add(total)
-          print(total)
       f.seek(0)
